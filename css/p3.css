@@ -1,0 +1,33 @@
+body{
+    background-color: green;
+}
+h1{ 
+    text-align: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+table{
+    width:70%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+}
+tr{
+    text-align: left;
+    background-color:white;
+}
+td{
+    text-align: center;
+}
+caption{
+    color: white;
+}
+h5{
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    color:white
+}
